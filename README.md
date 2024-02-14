@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lavprasad78@gmail.com**
 
-- ⚡ Fun fact **I read Manga, watch Anime, etc.**
+- ⚡ Fun fact **I read Manga, watch Anime, Novels, etc.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
