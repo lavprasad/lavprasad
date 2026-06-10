@@ -29,7 +29,7 @@ I'm **Lav Prasad** — a Full Stack Web Developer based in Navi Mumbai, India �
 - 👯 I'm looking to collaborate on **Interesting side projects and developer tools**  
 - 💬 Ask me about **Web Dev, React, TypeScript, Open Source**  
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it 😄**  
-- 📫 Reach me at: **lavprasad@example.com**
+- 📫 Reach me at: **lavprasad76@gmail.com**
 
 </div>
 
@@ -43,7 +43,7 @@ I'm **Lav Prasad** — a Full Stack Web Developer based in Navi Mumbai, India �
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@lavprasad)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lavprasad)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lavprasad%230001)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavprasad@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavprasad76@gmail.com)
 
 </div>
 
