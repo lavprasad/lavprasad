@@ -151,6 +151,6 @@ I'm **Lav Prasad** — a Full Stack Web Developer based in Navi Mumbai, India �
 
 ### 💖 Thanks for visiting my profile!
 
-*This README was generated dynamically with [README Generator](https://github.com/lavprasad)*
+*(https://github.com/lavprasad)*
 
 </div>
