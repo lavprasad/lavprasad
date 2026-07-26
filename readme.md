@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:abd200&height=140&section=header&text=lavprasad%40github:~%24&fontalign=12&fontSize=28&fontColor=abd200&animation=fadeIn&fontAlignY=60" width="100%" alt="banner" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=abd200&center=true&vCenter=true&random=false&width=720&lines=%24+whoami;Lav+Prasad+%E2%80%94+Full+Stack+Developer;I+build+tools+I+actually+use.;Web+%C2%B7+Android+%C2%B7+Networks+%C2%B7+Automation" alt="Typing SVG" />
 
 ```console
@@ -87,6 +89,26 @@ reach_me:     lavprasad76@gmail.com
 
 </div>
 
+## `$ ./snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavprasad/lavprasad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavprasad/lavprasad/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lavprasad/lavprasad/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
+## `$ fortune | dev`
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=merko&hideBorder" alt="Random dev joke" />
+
+</div>
+
 ## `$ ping lav`
 
 <div align="center">
@@ -109,3 +131,5 @@ Thanks for stopping by. Connection to lavprasad closed.
 ![Profile Views](https://komarev.com/ghpvc/?username=lavprasad&style=flat-square&color=abd200)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:abd200,100:1a1b27&height=100&section=footer" width="100%" alt="footer" />
