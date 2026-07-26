@@ -19,11 +19,11 @@ LOCATION
        Navi Mumbai, India (UTC +05:30)
 
 DESCRIPTION
-       Builds software end to end: web apps in React/TypeScript on the
-       front, Node.js on the back, and whatever the problem demands in
-       between - Android apps, network tooling on OpenWRT routers,
-       Windows audio utilities, downloaders, ad blockers, resume
-       builders. If a tool doesn't exist, it gets written.
+       Builds software end to end: React/TypeScript and Node on the
+       web, Kotlin/Compose and Flutter on Android, Rust/Tauri and
+       C++/Qt on the desktop, plus OpenWRT automation, Npcap monitors,
+       and YOLOv8 / OpenCV vision pipelines. If a tool doesn't exist,
+       it gets written.
 
 PHILOSOPHY
        The best code is the code you never wrote.
@@ -33,7 +33,7 @@ EXIT STATUS
        Never. Currently open to opportunities.
 
 SEE ALSO
-       react(1), node(1), typescript(1), docker(1), openwrt(8)
+       react(1), kotlin(1), rust(1), python(1), openwrt(8), opencv(3)
 ```
 
 ---
@@ -42,11 +42,12 @@ SEE ALSO
 
 | directory | what happens in there |
 |---|---|
-| `web/` | Scalable, performant web apps — React, Next.js, TypeScript, Tailwind, Vite |
-| `android/` | Custom browsers and media downloaders, built from the WebView up |
-| `network/` | Firewall testing, OpenWRT router automation, SSH tooling |
-| `desktop/` | Windows multi-device audio routing, file transfer utilities |
-| `experiments/` | Stock analysis, scrapers, ad blockers, and other 2 AM ideas |
+| `web/` | React + TypeScript apps, Next.js, Node/Express + Socket.IO dashboards on MySQL |
+| `android/` | Kotlin / Jetpack Compose browsers & downloaders, Flutter music player, Room/SQLite |
+| `network/` | OpenWRT automation, Npcap traffic monitors, Tauri + Rust SSH/SFTP toolkit |
+| `desktop/` | C# / WPF multi-device audio, C++/Qt file transfer, CMake Windows tools |
+| `vision/` | YOLOv8 / Ultralytics training, OpenCV + ONNX inference, camera-gated workflows |
+| `experiments/` | Edge MV3 extensions, stock tooling, TallyPrime automation, scrapers |
 
 ## `$ cat /proc/lav/status`
 
@@ -54,7 +55,7 @@ SEE ALSO
 working_on:   building scalable, performant web applications
 learning:     system design, advanced React patterns, AI integrations
 collab:       side projects and developer tools
-ask_me_about: [web dev, react, typescript, open source]
+ask_me_about: [web, android, networking, computer vision, rust, typescript]
 reach_me:     lavprasad76@gmail.com
 ```
 
@@ -62,19 +63,51 @@ reach_me:     lavprasad76@gmail.com
 
 <div align="center">
 
+`languages/`&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=dotnet&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white)
+
+`web/`&nbsp;
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+
+`apps/`&nbsp;
+![Android](https://img.shields.io/badge/Android-34a853?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285f4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24c8d8?style=flat-square&logo=tauri&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20%2F%20WPF-512bd4?style=flat-square&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41cd52?style=flat-square&logo=qt&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/MV3%20Extensions-4285f4?style=flat-square&logo=googlechrome&logoColor=white)
+
+`vision+%20ai/`&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005ced?style=flat-square&logo=onnx&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=flat-square&logo=python&logoColor=white)
+
+`tools/`&nbsp;
+![CMake](https://img.shields.io/badge/CMake-064f8c?style=flat-square&logo=cmake&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![OpenWRT](https://img.shields.io/badge/OpenWRT-00b5e2?style=flat-square&logo=openwrt&logoColor=white)
+![Npcap](https://img.shields.io/badge/Npcap-0a66c2?style=flat-square&logo=wireshark&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white)
 
 </div>
 
